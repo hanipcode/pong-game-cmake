@@ -1,0 +1,33 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-DPLATFORM_WEB",
+      "-D_GLFW_COCOA",
+      "-I/Users/hanifmuhammad/Projects/pong-game-cmake/_deps/raylib-src/src/external/glfw/include",
+      "-I/Users/hanifmuhammad/Projects/pong-game-cmake/_deps/raylib-src/src/external/glfw/src",
+      "-I/Users/hanifmuhammad/Projects/pong-game-cmake/_deps/raylib-build/raylib/external/glfw/src",
+      "-fno-strict-aliasing",
+      "-Werror=implicit-function-declaration",
+      "-Werror=pointer-arith",
+      "-sUSE_GLFW=3",
+      "-sALLOW_MEMORY_GROWTH=1",
+      "-O3",
+      "-DNDEBUG",
+      "-arch",
+      "arm64",
+      "-isysroot",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+      "-fPIC",
+      "-Wall",
+      "-std=c99",
+      "-c",
+      "-o",
+      "CMakeFiles/glfw.dir/context.c.o",
+      "/Users/hanifmuhammad/Projects/pong-game-cmake/_deps/raylib-src/src/external/glfw/src/context.c"
+    ],
+    "directory": "/Users/hanifmuhammad/Projects/pong-game-cmake/_deps/raylib-build/raylib/external/glfw/src",
+    "file": "/Users/hanifmuhammad/Projects/pong-game-cmake/_deps/raylib-src/src/external/glfw/src/context.c",
+    "output": "/Users/hanifmuhammad/Projects/pong-game-cmake/_deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/context.c.o"
+  }
+]
