@@ -2,6 +2,7 @@
 .vscode/
 .vs/
 cmake-build-debug/
+_deps/
 bin/
 build/
 out/
